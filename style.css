@@ -1,0 +1,35 @@
+body{
+	margin: 0px;
+}
+
+div{
+    width: 600px;
+    margin: auto;
+    text-align: center;
+    text-transform: capitalize;
+    background-color:#efa6a6; 
+    padding: 25px;   
+}
+h1{
+	color:white;	
+    font-size: 54px;
+    margin: 0px;
+
+}
+h2{
+	color: white;
+	font-size: 37px;
+    margin: 0px;
+
+}
+h3{
+    height: 02px;
+}
+p{
+	color: white;	
+	font-size: 19px;
+    margin: 0px;
+}
+img{
+    width:190px ;
+}
